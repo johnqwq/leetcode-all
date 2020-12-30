@@ -3,12 +3,6 @@ package cn.itdf.C_hard;
 import java.util.Deque;
 import java.util.LinkedList;
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int val) { this.val = val; }
-}
 
 /**
  * 题目：从先序遍历还原二叉树
